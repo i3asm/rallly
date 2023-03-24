@@ -1,15 +1,15 @@
 {
-  "blog": "Blog",
-  "discussions": "Discussions",
-  "donate": "Donate",
-  "footerCredit": "Made by <a>@imlukevella</a>",
-  "footerSponsor": "This project is user-funded. Please consider supporting it by <a>donating</a>.",
-  "home": "Home",
-  "language": "Language",
-  "links": "Links",
+  "blog": "المدونة",
+  "discussions": "النقاش",
+  "donate": "تبرع",
+  "footerCredit": "صنعه <a>@imlukevella</a>",
+  "footerSponsor": "هذا المشروع يموله المستخدمون، يمكنك دعمه <a>بالتبرع</a>.",
+  "home": "الرئيسية",
+  "language": "اللغة",
+  "links": "الروابط",
   "poweredBy": "Powered by",
   "privacyPolicy": "Privacy Policy",
   "starOnGithub": "Star us on Github",
   "support": "Support",
-  "volunteerTranslator": "Help translate this site"
+  "volunteerTranslator": "شارك في الترجمة"
 }

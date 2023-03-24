@@ -25,6 +25,11 @@ const dayjsLocales: Record<
     import: () => Promise<ILocale>;
   }
 > = {
+  ar: {
+    weekStartsOn: "sunday",
+    timeFormat: "12h",
+    import: () => import("dayjs/locale/ar"),
+  },
   en: {
     weekStartsOn: "monday",
     timeFormat: "12h",

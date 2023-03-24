@@ -2,6 +2,7 @@ import languageParser from "accept-language-parser";
 import { NextRequest, NextResponse } from "next/server";
 
 const supportedLocales = [
+  "ar",
   "ca",
   "cs",
   "da",

@@ -4,6 +4,7 @@ module.exports = {
   i18n: {
     defaultLocale: "en",
     locales: [
+      "ar",
       "ca",
       "cs",
       "da",
@@ -24,7 +25,6 @@ module.exports = {
       "sk",
       "sv",
       "zh",
-      "ar"
     ],
   },
   reloadOnPrerender: process.env.NODE_ENV === "development",

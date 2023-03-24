@@ -18,6 +18,7 @@ export const LanguageSelect: React.VoidFunctionComponent<{
         onChange?.(e.target.value);
       }}
     >
+      <option value="ar">العربية</option>
       <option value="en">English</option>
       <option value="ca">Català</option>
       <option value="cs">Česky</option>

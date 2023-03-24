@@ -1,6 +1,6 @@
 {
-  "notFoundTitle": "404 not found",
-  "notFoundDescription": "We couldn't find the page you're looking for.",
-  "goToHome": "Go to home",
-  "startChat": "Start chat"
+  "notFoundTitle": "404 غير موجود",
+  "notFoundDescription": "لم نعثر على الصفحة التي تطلبها.",
+  "goToHome": "اذهب إلى الرئيسية",
+  "startChat": "ابدأ دردشة"
 }
