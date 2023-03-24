@@ -24,6 +24,7 @@ module.exports = {
       "sk",
       "sv",
       "zh",
+      "ar"
     ],
   },
   reloadOnPrerender: process.env.NODE_ENV === "development",
